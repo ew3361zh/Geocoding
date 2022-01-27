@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Geocoding</string>
+    <string name="button_text">Show Map</string>
+    <string name="enter_map_text">Enter place to map</string>
+    <string name="no_place_entered_error">Enter a location to map</string>
+    <string name="no_places_found_error">Sorry, no places found</string>
+</resources>
